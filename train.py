@@ -1,0 +1,1 @@
+print('the train is moving fast ')
